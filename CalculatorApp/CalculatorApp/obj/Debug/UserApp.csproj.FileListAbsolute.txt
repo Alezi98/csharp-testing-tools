@@ -1,0 +1,9 @@
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\bin\Debug\UserApp.exe.config
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\bin\Debug\UserApp.exe
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\bin\Debug\UserApp.pdb
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.csprojResolveAssemblyReference.cache
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.UserView.resources
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.Properties.Resources.resources
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.csproj.GenerateResource.Cache
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.exe
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.pdb
