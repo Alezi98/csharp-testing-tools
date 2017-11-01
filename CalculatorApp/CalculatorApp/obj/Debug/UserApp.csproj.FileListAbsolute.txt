@@ -7,3 +7,8 @@ C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserA
 C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.csproj.GenerateResource.Cache
 C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.exe
 C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\obj\Debug\UserApp.pdb
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\bin\Debug\Castle.Core.dll
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\bin\Debug\TestStack.White.dll
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\bin\Debug\Castle.Core.xml
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\bin\Debug\TestStack.White.pdb
+C:\Users\fabio\Desktop\testing-tools\CalculatorApp\CalculatorApp\bin\Debug\TestStack.White.xml

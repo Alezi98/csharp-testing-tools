@@ -128,7 +128,7 @@
             this.Controls.Add(this.birthDatePicker);
             this.Controls.Add(this.nameTextbox);
             this.Name = "UserView";
-            this.Text = "Cadastro de Usuário";
+            this.Text = "UserView";
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
